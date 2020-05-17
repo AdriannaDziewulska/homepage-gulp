@@ -11,8 +11,7 @@ html {
 }
 
 .body {
-  background-color: #8EC5FC;
-  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  background-color: #D4CDAB;
   width: 100%;
   display: grid;
 }
@@ -24,8 +23,7 @@ html {
   width: 100%;
   padding: 32px;
   &__body{
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    background-color: #D4CDAB;
     min-height: 100vh;
     padding: 16px;
     display:flex;
@@ -104,7 +102,7 @@ html {
     justify-content: center;
   }
   &__link {
-    color: #84CE9C;
+    color: #5C976D;
   }
 }
 
@@ -147,7 +145,7 @@ html {
 }
 
 .site-header {
-  background: rgb(241, 241, 241);
+  background: #F6F5D4;
   box-sizing: border-box;
   position: fixed;
   padding: 16px;
